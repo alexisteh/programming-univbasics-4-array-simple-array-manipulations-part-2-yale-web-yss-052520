@@ -10,3 +10,7 @@ end
 def using_uniq (a)
   a.uniq 
 end 
+
+def using_flatten (a)
+  a.flatten 
+end 
